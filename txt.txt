@@ -1,0 +1,3 @@
+5. Descreva, com as suas palavras, a diferença conceitual entre “tipo primitivo” e “wrapper class”
+
+R: A diferença que há entre classe wrapper e o tipo primitivo em Java é que classe wrapper é usada para converter um tipo primitivo em um objeto e objeto de volta no tipo primitivo, enquanto um tipo primitivo é um tipo de dados predefinido fornecido pela linguagem de programação Java.
